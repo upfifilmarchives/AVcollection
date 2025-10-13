@@ -71,7 +71,7 @@ metadata: metadata
 # (this is done automatically by gh-pages build)
 #
 # ignore stuff
-exclude: [docs/, Rakefile, README.md, LICENSE]
+exclude: [vendor,docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
 sass:
   style: compressed
