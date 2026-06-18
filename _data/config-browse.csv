@@ -6,5 +6,5 @@ location,,,true,Location
 castcrew,,,true,Cast&Crew
 adviser,,,true,Adviser
 source,,,true,Collection
-genre,,,true,Genre
+genre,Genre,true,true,Genre
 description,,,true,,
